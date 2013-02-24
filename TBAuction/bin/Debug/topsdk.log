@@ -1,0 +1,26 @@
+2013-02-16 15:38:30 ERROR: www.taobao.com
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at System.Uri..ctor(String uriString)
+   at System.Net.WebRequest.Create(String requestUriString)
+   at Top.Api.Util.WebUtils.GetWebRequest(String url, String method)
+   at Top.Api.Util.WebUtils.DoPost(String url, IDictionary`2 parameters)
+   at Top.Api.DefaultTopClient.DoExecute[T](ITopRequest`1 request, String session, DateTime timestamp)
+   at Top.Api.DefaultTopClient.Execute[T](ITopRequest`1 request, String session, DateTime timestamp)
+2013-02-16 15:42:05 ERROR: www.taobao.com
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at System.Uri..ctor(String uriString)
+   at System.Net.WebRequest.Create(String requestUriString)
+   at Top.Api.Util.WebUtils.GetWebRequest(String url, String method)
+   at Top.Api.Util.WebUtils.DoPost(String url, IDictionary`2 parameters)
+   at Top.Api.DefaultTopClient.DoExecute[T](ITopRequest`1 request, String session, DateTime timestamp)
+   at Top.Api.DefaultTopClient.Execute[T](ITopRequest`1 request, String session, DateTime timestamp)
+2013-02-16 15:43:39 WARN: http://gw.api.taobao.com/router/rest?method=taobao.time.get&v=2.0&app_key=test&format=xml&partner_id=top-sdk-net-20130216&timestamp=2013-02-16+15%3a43%3a38&sign=CC6CC5126FFCD0F982E154A2C7566F6E
+<?xml version="1.0" encoding="utf-8" ?><error_response><code>29</code><msg>Invalid app Key</msg><sub_code>isv.appkey-not-exists</sub_code></error_response><!--top049181.cm4-->
+2013-02-16 15:45:16 WARN: http://gw.api.taobao.com/router/rest?method=taobao.time.get&v=2.0&app_key=taobao1234&format=xml&partner_id=top-sdk-net-20130216&timestamp=2013-02-16+15%3a45%3a15&sign=AFD8591FA83ED7C1EDFB184DA62BE489
+<?xml version="1.0" encoding="utf-8" ?><error_response><code>29</code><msg>Invalid app Key</msg><sub_code>isv.appkey-not-exists</sub_code></error_response><!--top050062.cm4-->
+2013-02-16 15:46:13 ERROR: http://mini.tbsandbox.com/
+   at System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   at System.Xml.Serialization.XmlSerializer.Deserialize(Stream stream)
+   at Top.Api.Parser.TopXmlParser.Parse[T](String body)
+   at Top.Api.DefaultTopClient.DoExecute[T](ITopRequest`1 request, String session, DateTime timestamp)
+   at Top.Api.DefaultTopClient.Execute[T](ITopRequest`1 request, String session, DateTime timestamp)

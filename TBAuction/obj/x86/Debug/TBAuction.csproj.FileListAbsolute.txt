@@ -1,0 +1,70 @@
+C:\Users\Harry\AppData\Local\Temporary Projects\TBAuction\bin\Debug\TBAuction.exe
+C:\Users\Harry\AppData\Local\Temporary Projects\TBAuction\bin\Debug\TBAuction.pdb
+C:\Users\Harry\AppData\Local\Temporary Projects\TBAuction\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Harry\AppData\Local\Temporary Projects\TBAuction\obj\x86\Debug\TBAuction.frmAuction.resources
+C:\Users\Harry\AppData\Local\Temporary Projects\TBAuction\obj\x86\Debug\TBAuction.Properties.Resources.resources
+C:\Users\Harry\AppData\Local\Temporary Projects\TBAuction\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Harry\AppData\Local\Temporary Projects\TBAuction\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Harry\AppData\Local\Temporary Projects\TBAuction\obj\x86\Debug\TBAuction.exe
+C:\Users\Harry\AppData\Local\Temporary Projects\TBAuction\obj\x86\Debug\TBAuction.pdb
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TBAuction\TBAuction\obj\x86\Debug\TBAuction.exe
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TBAuction\TBAuction\obj\x86\Debug\TBAuction.pdb
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TBAuction\TBAuction\bin\Debug\TBAuction.exe
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TBAuction\TBAuction\bin\Debug\TBAuction.pdb
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TBAuction\TBAuction\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TBAuction\TBAuction\obj\x86\Debug\TBAuction.frmAuction.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TBAuction\TBAuction\obj\x86\Debug\TBAuction.Properties.Resources.resources
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TBAuction\TBAuction\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Harry\Documents\Visual Studio 2010\Projects\TBAuction\TBAuction\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Harry\Desktop\TBAuction\TBAuction\obj\x86\Debug\TBAuction.exe
+C:\Users\Harry\Desktop\TBAuction\TBAuction\obj\x86\Debug\TBAuction.pdb
+C:\Users\Harry\Desktop\TBAuction\TBAuction\bin\Debug\TBAuction.exe
+C:\Users\Harry\Desktop\TBAuction\TBAuction\bin\Debug\TBAuction.pdb
+C:\Users\Harry\Desktop\TBAuction\TBAuction\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Harry\Desktop\TBAuction\TBAuction\obj\x86\Debug\TBAuction.frmAuction.resources
+C:\Users\Harry\Desktop\TBAuction\TBAuction\obj\x86\Debug\TBAuction.LogForm.resources
+C:\Users\Harry\Desktop\TBAuction\TBAuction\obj\x86\Debug\TBAuction.Properties.Resources.resources
+C:\Users\Harry\Desktop\TBAuction\TBAuction\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Harry\Desktop\TBAuction\TBAuction\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\TBAuction\TBAuction\obj\x86\Debug\TBAuction.exe
+C:\Users\Administrator\Desktop\TBAuction\TBAuction\obj\x86\Debug\TBAuction.pdb
+C:\Users\Administrator\Desktop\TBAuction\TBAuction\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\TBAuction\TBAuction\obj\x86\Debug\TBAuction.frmAuction.resources
+C:\Users\Administrator\Desktop\TBAuction\TBAuction\obj\x86\Debug\TBAuction.LogForm.resources
+C:\Users\Administrator\Desktop\TBAuction\TBAuction\obj\x86\Debug\TBAuction.Properties.Resources.resources
+C:\Users\Administrator\Desktop\TBAuction\TBAuction\obj\x86\Debug\TBAuction.PropertyList.resources
+C:\Users\Administrator\Desktop\TBAuction\TBAuction\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\TBAuction\TBAuction\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\TBAuction\TBAuction\bin\Debug\TBAuction.exe
+C:\Users\Administrator\Desktop\TBAuction\TBAuction\bin\Debug\TBAuction.pdb
+C:\Users\Administrator\Desktop\TBAuction\TBAuction\obj\x86\Debug\TBAuction.CheckCodeForm.resources
+C:\Users\Administrator\Desktop\TBAuction\TBAuction\bin\Debug\TBAuction.exe.manifest
+C:\Users\Administrator\Desktop\TBAuction\TBAuction\bin\Debug\TBAuction.application
+C:\Users\Administrator\Desktop\TBAuction\TBAuction\obj\x86\Debug\TBAuction.exe.manifest
+C:\Users\Administrator\Desktop\TBAuction\TBAuction\obj\x86\Debug\TBAuction.application
+C:\Users\Harry\Desktop\TBAuction\TBAuction\bin\Debug\TBAuction.exe.manifest
+C:\Users\Harry\Desktop\TBAuction\TBAuction\bin\Debug\TBAuction.application
+C:\Users\Harry\Desktop\TBAuction\TBAuction\obj\x86\Debug\TBAuction.CheckCodeForm.resources
+C:\Users\Harry\Desktop\TBAuction\TBAuction\obj\x86\Debug\TBAuction.PropertyList.resources
+C:\Users\Harry\Desktop\TBAuction\TBAuction\obj\x86\Debug\TBAuction.exe.manifest
+C:\Users\Harry\Desktop\TBAuction\TBAuction\obj\x86\Debug\TBAuction.application
+C:\Users\Administrator\Desktop\TBAuction\TBAuction\obj\x86\Debug\TBAuction.QuestionForm.resources
+C:\Users\Harry\Desktop\TBAuction\TBAuction\obj\x86\Debug\TBAuction.QuestionForm.resources
+C:\Users\bopen\Desktop\TBAuction\TBAuction\bin\Debug\TBAuction.exe.config
+C:\Users\bopen\Desktop\TBAuction\TBAuction\obj\x86\Debug\TBAuction.exe
+C:\Users\bopen\Desktop\TBAuction\TBAuction\obj\x86\Debug\TBAuction.pdb
+C:\Users\bopen\Desktop\TBAuction\TBAuction\bin\Debug\TBAuction.exe.manifest
+C:\Users\bopen\Desktop\TBAuction\TBAuction\bin\Debug\TBAuction.application
+C:\Users\bopen\Desktop\TBAuction\TBAuction\bin\Debug\TBAuction.exe
+C:\Users\bopen\Desktop\TBAuction\TBAuction\bin\Debug\TBAuction.pdb
+C:\Users\bopen\Desktop\TBAuction\TBAuction\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\bopen\Desktop\TBAuction\TBAuction\obj\x86\Debug\TBAuction.CheckCodeForm.resources
+C:\Users\bopen\Desktop\TBAuction\TBAuction\obj\x86\Debug\TBAuction.frmAuction.resources
+C:\Users\bopen\Desktop\TBAuction\TBAuction\obj\x86\Debug\TBAuction.LogForm.resources
+C:\Users\bopen\Desktop\TBAuction\TBAuction\obj\x86\Debug\TBAuction.Properties.Resources.resources
+C:\Users\bopen\Desktop\TBAuction\TBAuction\obj\x86\Debug\TBAuction.PropertyList.resources
+C:\Users\bopen\Desktop\TBAuction\TBAuction\obj\x86\Debug\TBAuction.QuestionForm.resources
+C:\Users\bopen\Desktop\TBAuction\TBAuction\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\bopen\Desktop\TBAuction\TBAuction\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\bopen\Desktop\TBAuction\TBAuction\obj\x86\Debug\TBAuction.exe.manifest
+C:\Users\bopen\Desktop\TBAuction\TBAuction\obj\x86\Debug\TBAuction.application
